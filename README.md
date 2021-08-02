@@ -8,6 +8,7 @@ The purpose is to grasp if the bike-sharing program in the city is a solid busin
 ### Story point 1 ---------- Dashboard
 ![Dashboard](https://github.com/summerginger/Bikesharing/blob/main/Tableau%20Public%20-%20bikes%20analysis%202021-08-01%204_42_33%20PM.png)
 The dashboard displays the following: 
+
 •	 There is a wide range of the age of the users. Younger users tend to use the service for longer periods of time.
 
 •	The line graph shows a total of over 2.3 million trips in the month of August.
