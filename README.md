@@ -33,7 +33,7 @@ Weekend rides are highest from 10:00 AM to 5:00 PM.
 Those rides are mostly taken by male users.
 ![user trips by gender by weekday](https://github.com/summerginger/Bikesharing/blob/main/Tableau%20Public%20-%20bikes%20analysis%202021-08-01%204_55_12%20PM.png)
 ## Summary
-The data provides the high activity of the bike sharing business in NYC, and the length of time that bikes are checked out were most within 20 minutes, such short trip duration and demanded services could make business lucrative. However, additional analysis would be beneficial by:
+The data provides the high activity of the bike sharing business in NYC, and the length of time that bikes are checked out were most within 20 minutes, such short trip duration and demanded services could make business lucrative. However, additional analysis would be more beneficial by:
 
 •	Comparing data for different months to determine trends across the year, particularly colder months which could have significantly negatively impact the business. Therefore, be prepare to come up the ideas and solutions for the future stakeholders.
 
