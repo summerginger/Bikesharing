@@ -35,7 +35,7 @@ Those rides are mostly taken by male users.
 ## Summary
 The data provides the high activity of the bike sharing business in NYC, and the length of time that bikes are checked out were most within 20 minutes, such short trip duration and demanded services could make business lucrative. However, additional analysis would be more beneficial by:
 
-•	Comparing data for different months to determine trends across the year, particularly colder months which could have significantly negatively impact the business. Therefore, be prepare to come up the ideas and solutions for the future stakeholders.
+•	Comparing data for different months to determine trends across the year, particularly colder months which could significantly negatively impact the business. Therefore, be prepare to come up the ideas and solutions for the future stakeholders.
 
 •	Including the population of users in each service spot which could help investors to adjust for potential bike location. 
 ## Resources
